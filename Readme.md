@@ -17,7 +17,7 @@ compliance roles in Australia.
 | [ACSC Essential Eight](./essential-eight/) | Mitigation strategies, maturity levels, and implementation notes |
 | [Australian Privacy Principles (APPs)](./australian-privacy-principles/) | Privacy Act 1988 — all 13 APPs with notes and examples |
 | [GDPR](./GDPR/) | EU General Data Protection Regulation — key articles and compliance notes |
-| [ISO27001:2022](./ISO27001:2022/) | Information Security Management Systems — key clauses, Annex A, SOA and risk management notes |
+| [ISO27001:2022](./ISO_27001_2022/) | Information Security Management Systems — key clauses, Annex A, SOA and risk management notes |
 | [NIST_CSF_2.0](./NIST_CSF_2.0/) | Cybersecurity Study notes - Govern, Identify, Protect, Detect, Respond and Recover |
 ---
 
